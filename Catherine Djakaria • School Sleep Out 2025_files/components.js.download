@@ -1,3 +1,0 @@
-"use strict";
-
-if (!window.RaiselyPrivateComponents) window.RaiselyPrivateComponents = [];
